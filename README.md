@@ -41,7 +41,7 @@ Watch the demo video of the project [here](https://youtu.be/59v-Nk8jbLw).
 
 ### Set Up Database
 1. Install MySQL and create a new database for EpicReads.
-2. Import the provided `epicreads.sql` file to set up the database schema.
+2. Import the provided `EpicReads.sql` file to set up the database schema.
 3. Ensure that the MySQL connection credentials are correctly set in the `DbConnector.java` file.
 
 ### Run the Project
