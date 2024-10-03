@@ -37,7 +37,7 @@ Watch the demo video of the project [here](https://youtu.be/59v-Nk8jbLw).
 ### Clone the Repostory
 
     ```bash
-    git clone https://github.com/christancone/Renew.git
+    git clone https://github.com/christancone/EpicReads.git
 
 ### Set Up Database
 1. Install MySQL and create a new database for EpicReads.
